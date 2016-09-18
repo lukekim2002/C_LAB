@@ -12,10 +12,10 @@ C LAB program
 9. Quadratic equation.						(Re_equation.c)
 10. Factorial.								(ReFactorial.c)
 11. Swap two numbers.						(Re_Swap.c)
-12. Employee information.					(Structure.c)
+12. Employee information.					(Re_Employee.c)
 13. Student database.						(Stu.c)
  
 ---
 These are not perfect.
 So just change to your way.  
-Number 7, 12, 13 have not finished re-writing. Wait guys!
+Number 7, 13 have not finished re-writing. Wait guys!
