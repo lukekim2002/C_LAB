@@ -7,7 +7,7 @@ C LAB program
 4. Arithmetic Calculation.					(Re_Calc.c)
 5. Prime numbers between two intervals.		(Re_Prime.c)
 6. Palindrome.								(Re_Palin.c)
-7. Matrix Multiplication.					(MultiplicationMatrix.c)
+7. Matrix Multiplication.					(Re_MulCalc.c)
 8. Vowel Counter.							(Re_Vowels.c)
 9. Quadratic equation.						(Re_equation.c)
 10. Factorial.								(ReFactorial.c)
@@ -18,4 +18,4 @@ C LAB program
 ---
 These are not perfect.
 So just change to your way.  
-Number 7, 13 have not finished re-writing. Wait guys!
+Number 13 have not finished re-writing. Wait guys!
