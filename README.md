@@ -13,9 +13,9 @@ C LAB program
 10. Factorial.								(ReFactorial.c)
 11. Swap two numbers.						(Re_Swap.c)
 12. Employee information.					(Re_Employee.c)
-13. Student database.						(Stu.c)
+13. Student database.						(Stu.c, Re_StdDB.c)
  
 ---
-These are not perfect.
-So just change to your way.  
-Number 13 have not finished re-writing. Wait guys!
+These are not perfect.  
+It may have some errors.  
+So change to your ways.  
