@@ -17,6 +17,6 @@ C LAB program
  
 ---
 These are practicing of C programming language.  
-Since I am freshman of the college, I may made some mistakes.  
+Since I am freshman of the college, I may make some mistakes.  
 Hope readers do code reviews and check errors.  
 Thank you.  
