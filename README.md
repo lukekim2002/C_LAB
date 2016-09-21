@@ -16,6 +16,7 @@ C LAB program
 13. Student database.						(Stu.c, Re_StdDB.c)
  
 ---
-These are not perfect.  
-It may have some errors.  
-So change to your ways.  
+These are practicing of C programming language.  
+Since I am freshman of the college, I may made some mistakes.  
+Hope readers do code reviews and check errors.  
+Thank you.  
